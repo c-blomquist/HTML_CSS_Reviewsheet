@@ -1,0 +1,26 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #F5F5F5;
+}
+
+h1 {
+    text-align: center;
+}
+
+table {
+    border: 2px solid black;
+    width: 65%;
+}
+
+th {
+    text-align: center;
+    margin: 25px;
+}
+
+td {
+    border-top: 2px solid black;
+}
+
+.code {
+    font-family: 'Times New Roman', Times, serif;
+}
