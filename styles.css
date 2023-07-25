@@ -9,12 +9,11 @@ h1 {
 
 table {
     border: 2px solid black;
-    width: 65%;
+    width: 50%;
 }
 
 th {
     text-align: center;
-    margin: 25px;
 }
 
 td {
